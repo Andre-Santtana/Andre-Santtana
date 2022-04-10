@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o André Santana</h1>
-<h3 align="center">👀 Atualmente trabalho com testes manuais, e sou estudante do curso de Sistemas de Informações</h3>
+<h3 align="center">👀 Atualmente trabalho com testes manuais, e sou estudante do curso de Sistemas de Informação</h3>
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=andre-santtana&show_icons=true&locale=en" alt="andre-santtana" width="50%" height="45%" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-santtana&show_icons=true&locale=en&layout=compact" alt="andre-santtana width="45%" height="50%" /></p>
