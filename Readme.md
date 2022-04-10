@@ -2,7 +2,7 @@
 <h3 align="center">👀 Atualmente trabalho com testes manuais</h3>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=andre-santtana&show_icons=true&locale=en" alt="andre-santtana" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=andre-santtana&show_icons=true&locale=en" alt="andre-santtana" width="500px" height="200px" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-santtana&show_icons=true&locale=en&layout=compact" alt="andre-santtana width="90px" height="150px" /></p>
